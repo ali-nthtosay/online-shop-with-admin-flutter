@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588103702677",
+    "project_id": "telescop-shop",
+    "storage_bucket": "telescop-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588103702677:android:e46131655e38798db3e39c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_ecommerce_telescope_product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdJX0B-ZZDdDFgJIubS7bLv3BL3fd7yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
